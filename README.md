@@ -5,7 +5,7 @@ Recommended IDE - PyCharm Edu (https://www.jetbrains.com/pycharm-edu/)
 ## Setup process
 1. Install git (https://git-scm.com/downloads).
 2. Setup SSH access (ask Rokas because this is a bit complicated) (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent, https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
-3. In the terminal do `git clone git@github.com:rokaskasperavicius/BP2-Cellular-automaton.git` - this clones the repository on your local machine.
+3. In the terminal (command prompt for windows) do `git clone git@github.com:rokaskasperavicius/BP2-Cellular-automaton.git` - this clones the repository on your local machine.
 4. Open the project using your IDE.
 
 ## Git commands
@@ -15,7 +15,7 @@ The main branch is called `main`.
 
 Command `git branch` says on which branch you are on.
 
-`git pull` allows to pull the newest version of your branch from github (this will be needed when working not alone). This has to be done when somebody updates `main` branch!.
+`git pull` allows to pull the newest version of your branch from github (this will be needed when working not alone). This has to be done when somebody updates `main` branch!
 
 `git checkout [branch name]` puts you on a specific branch.
 
