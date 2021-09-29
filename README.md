@@ -32,7 +32,7 @@ Command `git branch` says on which branch you are on.
 3. `git push` - push the changes to the `main` branch (the terminal might throw another command you have to use for the first time you push)
 4. `git checkout main`
 5. `git pull` - for the newest version
-6. `git merge [your branch you had created]`
-7. If there are any conflicts - contact Rokas
+6. `git merge [your branch you had created]` - if there are any conflicts - contact Rokas.
+7. `git push`
 
 Now you have pushed your code to github and merged it into the main branch which has the newest project script :)
