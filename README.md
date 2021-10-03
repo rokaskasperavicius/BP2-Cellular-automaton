@@ -30,9 +30,5 @@ Command `git branch` says on which branch you are on.
 1. `git add .` - adds all files to they could be pushed
 2. `git commit -m "[insert a message here]"` - add a message to your commit
 3. `git push` - push the changes to the `main` branch (the terminal might throw another command you have to use for the first time you push)
-4. `git checkout main`
-5. `git pull` - for the newest version
-6. `git merge [your branch you had created]` - if there are any conflicts - contact Rokas.
-7. `git push`
 
-Now you have pushed your code to github and merged it into the main branch which has the newest project script :)
+Now you have pushed your code to github and can create a pull request against main branch :)
