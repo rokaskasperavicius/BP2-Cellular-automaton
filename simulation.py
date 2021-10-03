@@ -1,8 +1,6 @@
 import pygame, random
 import numpy as np
 
-#jeff
-
 # Colors
 
 EMPTY_CELL_COLOR = (213, 196, 161) # Sand
