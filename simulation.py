@@ -1,7 +1,7 @@
 import pygame, random
 import numpy as np
 
-# Colors
+# Colors jef
 
 EMPTY_CELL_COLOR = (213, 196, 161) # Sand
 GRID_COLOR = (0, 0, 0) # Black-ish
