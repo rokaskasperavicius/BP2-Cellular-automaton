@@ -2,7 +2,7 @@ import pygame, random
 import numpy as np
 
 # Colors
-
+#test 
 #asd
 
 EMPTY_CELL_COLOR = (213, 196, 161) # Sand
