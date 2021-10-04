@@ -3,8 +3,6 @@ import numpy as np
 
 # Colors
 
-#asd
-
 EMPTY_CELL_COLOR = (213, 196, 161) # Sand
 GRID_COLOR = (0, 0, 0) # Black-ish
 
