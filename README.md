@@ -1,6 +1,6 @@
 # BP2 Cellular automaton
 
-Recommended IDE - PyCharm Edu (https://www.jetbrains.com/pycharm-edu/)
+Recommended IDE - Visual Studio Code or PyCharm Edu (https://www.jetbrains.com/pycharm-edu/)
 
 ## Setup process
 1. Install git (https://git-scm.com/downloads).
